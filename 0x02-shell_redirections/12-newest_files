@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tp | grep -v /$ | head -1
+ls -tl /alx-system_engineering-devops/0x02-shell_redirections
